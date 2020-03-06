@@ -1,3 +1,36 @@
-.title {
-  color: #02ccba;
+.header {
+  height: 65px;
+  width: 100%
+  background-color: rgba(91, 145, 237, 0.9);
+  z-index: 10;
+}
+
+.header-logo{
+  width: 124px;
+  margin-top: 20px;
+}
+
+
+
+.main{
+  text-align: center;
+}
+
+.btn{
+  padding: 8px 24px;
+  color: white:
+  display: inline-block;
+  opacity: 0.8;
+}
+
+
+
+.hooter{
+  height: 65px;
+  width: 100%;
+  background-color: rgba(64, 59, 60, 0.8)
+}
+
+.li{
+  float: left;
 }
